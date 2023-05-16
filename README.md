@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvraghvender&label=Profile%20views&color=0e75b6&style=flat" alt="rvraghvender" /> </p>
 
-- 🌱 I’m currently learning **Azure, Google Cloud Platform**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on [amorphy](https://github.com/rvraghvender/amorphy)
 

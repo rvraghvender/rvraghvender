@@ -1,15 +1,41 @@
 <h1 align="center">Hi 👋, I'm Raghvender</h1>
-<h3 align="center">I work as a computational materials scientist. Normally, I spend my time doing mathematical experiments and comprehending physical processes or phenomena present in nature using computational modelings to find scientific solutions to extremely complicated problems. Furthermore, my work necessitates the use of newer techniques such as machine learning in order to extend local maxima faced by current approaches.</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | Computational Material Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rvraghvender&label=Profile%20views&color=0e75b6&style=flat" alt="rvraghvender" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rvraghvender&label=Profile%20views&color=0e75b6&style=flat" alt="rvraghvender" />
+</p>
 
-- 🌱 I’m currently learning **AWS**
+---
 
-- 👯 I’m looking to collaborate on [amorphy](https://github.com/rvraghvender/amorphy)
+🔬 I hold a PhD in **Computational Materials Science**, with strong expertise in mathematical modeling, numerical simulations, and scientific computing.
 
-- 👨‍💻 All of my projects are available at [https://github.com/rvraghvender](https://github.com/rvraghvender)
+🧠 Currently, I work on bridging **machine learning** with **battery research**, building intelligent models to predict battery health and degradation using **time-series data**.
 
-- 💬 Ask me about **Python, C++, Linux etc.**
+🚀 I am passionate about applying **Deep Learning** (Diffusion Models, VAEs, U-Nets) and **Statistical Learning** to real-world scientific problems.
+
+🛠️ My key technical skills include:
+- Programming: **Python**, **C++**, **SQL**
+- Libraries/Frameworks: **PyTorch**, **TensorFlow**, **Scikit-learn**, **FastAPI**
+- Databases: **PostgreSQL**, **MongoDB**
+- Cloud: **AWS (Amazon Web Services)**
+- Tools: **Linux**, **Docker**, **Git**
+
+📚 I am continuously learning and expanding my knowledge in:
+- **Generative AI** (Diffusion Models, GANs)
+- **Time-series forecasting**
+- **MLOps** and **deployment pipelines**
+
+🤝 I’m looking to collaborate on projects related to:
+- **Battery Life Prediction**
+- **Diffusion Model Applications**
+- **Open-source ML tools for science**
+
+📂 You can find all my major projects and contributions at [My GitHub Profile](https://github.com/rvraghvender)
+
+📫 Feel free to reach out to me at: **rvraghvender@gmail.com**
+
+---
+
 
 - 📫 How to reach me **rvraghvender@gmail.com**
 

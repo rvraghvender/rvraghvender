@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghvender</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | Computational Material Scientist</h3>
+<h3 align="center">Machine Learning Engineer | AI Researcher | Battery Modeling Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rvraghvender&label=Profile%20views&color=0e75b6&style=flat" alt="rvraghvender" />
@@ -7,37 +7,40 @@
 
 ---
 
-🔬 I hold a PhD in **Computational Materials Science**, with strong expertise in mathematical modeling, numerical simulations, and scientific computing.
+🔍 I am a **AI Researcher**/**Machine Learning Engineer** with a strong foundation in **computational modeling**, **deep learning architectures**, and **scientific data analysis**. I specialize in building **data-driven solutions** for complex physical systems, especially focusing on **battery degradation modeling** and **predictive analytics**.
 
-🧠 Currently, I work on bridging **machine learning** with **battery research**, building intelligent models to predict battery health and degradation using **time-series data**.
+⚡ My research and development interests include:
+- **Diffusion Models** for generative tasks on time-series and scientific data
+- **Variational Autoencoders (VAEs)** for representation learning and anomaly detection
+- **Autoregressive Models** for sequential latent vector prediction tasks
+- **Transformer Architectures** for long-range dependency modeling in time-series
+- **Physics-Informed Machine Learning** for better modeling of real-world systems
+- **Battery Health Forecasting** using machine learning and AI-driven simulations
 
-🚀 I am passionate about applying **Deep Learning** (Diffusion Models, VAEs, U-Nets) and **Statistical Learning** to real-world scientific problems.
+🛠️ **Technical Skills:**
+- **Programming:** Python (advanced), C++, SQL
+- **Frameworks/Libraries:** PyTorch, TensorFlow, Scikit-learn, FastAPI
+- **Machine Learning Expertise:** Supervised, Unsupervised, and Generative Modeling
+- **Database Management:** PostgreSQL, MongoDB
+- **DevOps & Tools:** Linux, Docker, Git, AWS Cloud Services
+- **Scientific Computing:** Numerical methods, PDE Solvers, Statistical modeling
 
-🛠️ My key technical skills include:
-- Programming: **Python**, **C++**, **SQL**
-- Libraries/Frameworks: **PyTorch**, **TensorFlow**, **Scikit-learn**, **FastAPI**
-- Databases: **PostgreSQL**, **MongoDB**
-- Cloud: **AWS (Amazon Web Services)**
-- Tools: **Linux**, **Docker**, **Git**
+📚 **Current Focus Areas:**
+- Building **Generative Models** tailored for 1D battery voltage evolution data
+- Developing robust **battery health prediction pipelines** based on **deep generative models**
+- Exploring **autoregressive transformers** for sequence modeling in latent space 
+- Advancing skills in **MLOps** and model deployment for large-scale data solutions.
 
-📚 I am continuously learning and expanding my knowledge in:
-- **Generative AI** (Diffusion Models, GANs)
-- **Time-series forecasting**
-- **MLOps** and **deployment pipelines**
+🤝 **I'm looking to collaborate** on projects related to:
+- Battery lifecycle prediction and digital twins
+- Generative AI for scientific and industrial applications
+- Time-series modeling with cutting-edge deep learning techniques
 
-🤝 I’m looking to collaborate on projects related to:
-- **Battery Life Prediction**
-- **Diffusion Model Applications**
-- **Open-source ML tools for science**
+📂 **Explore my work:** [GitHub Portfolio](https://github.com/rvraghvender)
 
-📂 You can find all my major projects and contributions at [My GitHub Profile](https://github.com/rvraghvender)
-
-📫 Feel free to reach out to me at: **rvraghvender@gmail.com**
+📫 **Connect with me:** **rvraghvender@gmail.com**
 
 ---
-
-
-- 📫 How to reach me **rvraghvender@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

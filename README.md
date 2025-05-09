@@ -7,7 +7,7 @@
 
 ---
 
-🔍 I am a **AI Researcher**/**Machine Learning Engineer** with a strong foundation in **computational modeling**, **deep learning architectures**, and **scientific data analysis**. I specialize in building **data-driven solutions** for complex physical systems, especially focusing on **battery degradation modeling** and **predictive analytics**.
+🔍 I am a **AI Research Engineer**/**Machine Learning Engineer** with a strong foundation in **computational modeling**, **deep learning architectures**, and **scientific data analysis**. I specialize in building **data-driven solutions** for complex physical systems, especially focusing on **battery degradation modeling** and **predictive analytics**.
 
 ⚡ My research and development interests include:
 - **Diffusion Models** for generative tasks on time-series and scientific data

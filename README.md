@@ -36,7 +36,7 @@
 - Generative AI for scientific and industrial applications
 - Time-series modeling with cutting-edge deep learning techniques
 
-📂 **Explore my work:** [GitHub Portfolio](https://github.com/rvraghvender)
+📂 **Explore my portfolio:** [Visit my website](https://raghvender.com)
 
 📫 **Connect with me:** **rvraghvender@gmail.com**
 
